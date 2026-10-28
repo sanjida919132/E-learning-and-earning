@@ -1,0 +1,6 @@
+{
+  "name": "E-Learning and Earning, Sirajganj Branch",
+  "description": "Official educational and freelancing management portal for E-Learning and Earning, Sirajganj Branch, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
